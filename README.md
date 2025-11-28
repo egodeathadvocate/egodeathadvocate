@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🌟 About Me<br>Hey there! I'm a passionate first-year IT student at University of San Carlos (USC) 🛡️!<br><br>I'm currently diving into the exciting world of coding and transforming ideas into digital projects. My main focus right now is building a strong foundation in:<br><br>C++ ⚙️ (Logic & Structure)<br><br>Python 🐍 (Problem-Solving)<br><br>JavaScript & HTML 🌐 (Web Basics)<br><br>I love learning and am always looking for new challenges and ways to collaborate. Let's build something awesome! 💪</p>
+<p align="left">🌟Hey there! I'm a passionate first-year IT student at University of San Carlos (USC) 🛡️!<br><br>I'm currently diving into the exciting world of coding and transforming ideas into digital projects. My main focus right now is building a strong foundation in:<br><br>C++ ⚙️ (Logic & Structure)<br><br>Python 🐍 (Problem-Solving)<br><br>JavaScript & HTML 🌐 (Web Basics)<br><br>I love learning and am always looking for new challenges and ways to collaborate. Let's build something awesome! 💪</p>
 
 ###
 
